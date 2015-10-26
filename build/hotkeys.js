@@ -1,4 +1,4 @@
-/*! 
+/*!
  * angular-hotkeys v1.6.0
  * https://chieffancypants.github.io/angular-hotkeys
  * Copyright (c) 2015 Wes Cruver
@@ -677,7 +677,10 @@
         46: 'del',
         91: 'meta',
         93: 'meta',
-        224: 'meta'
+        224: 'meta',
+        112: 'f1',
+        113: 'f2',
+        114: 'f3'
     };
 
     /**
